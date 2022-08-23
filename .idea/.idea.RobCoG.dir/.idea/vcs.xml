@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Plugins/UMongoC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Plugins/UPhysicsBasedMC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Plugins/UProtobuf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Plugins/UROSBridge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Plugins/USemLog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Plugins/UTFPublisher" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Plugins/UUtils" vcs="Git" />
+  </component>
+</project>
